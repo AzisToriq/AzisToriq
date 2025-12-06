@@ -1,9 +1,11 @@
-# 🚀 Azis Toriq | Mahasiswa Informatika & Aspiring Software Engineer
+# Hello Everyone Welcome to Github Toriq | IT Engineer & Aspiring Software Engineer 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AzisToriq&label=Views+on+Profile&color=blue" alt="Profile views" /> 
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internship-0077B6?style=flat&logo=linkedin" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-Laravel%20%7C%20Web3-FF4500" alt="Focus" />
+  <br/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFWlHO/giphy.gif" width="60" alt="Coding GIF">
 </p>
 
 Hai! Saya adalah mahasiswa Program Studi **Informatika** yang bersemangat, berfokus untuk membangun dasar-dasar kuat di bidang Pengembangan Perangkat Lunak, Desain UI/UX, dan Analisis Data. Saya selalu antusias dalam menggabungkan pendekatan yang **analitis** dengan eksekusi yang **kreatif** untuk menghasilkan solusi yang *user-centric*.
@@ -30,15 +32,20 @@ Sebagai *developer*, saya telah mengembangkan berbagai proyek web, dengan spesia
 | **UI/UX Design** | Figma, Prinsip *Human-Centered Design* | Mampu merancang *wireframe* dan *mockup* yang memastikan pengalaman pengguna yang intuitif. |
 | **Data Analysis** | Konsep Dasar Statistik & SQL | Mengumpulkan, membersihkan, dan menginterpretasi data untuk mendapatkan *insight* yang relevan. |
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUOjH4vj0w26d6a8/giphy.gif" width="80" alt="Server GIF">
+</p>
+
 ---
 
 ## 🚀 Proyek & Pengalaman Pengembangan
 
 Beberapa proyek telah saya kembangkan mulai dari nol, menggunakan bahasa pemrograman dan framework yang berbeda. Ini telah melatih kemampuan saya untuk beradaptasi dengan berbagai lingkungan teknis.
 
-* **Proyek A (Laravel):** Pengembangan sistem informasi web lengkap dengan otentikasi, manajemen CRUD yang kompleks, dan implementasi relasi Eloquent.
-* **Proyek B (PHP Native):** Aplikasi web skala kecil untuk memecahkan masalah spesifik, fokus pada keamanan dasar dan efisiensi kode.
-* **Proyek C (JS):** Eksperimen dengan DOM Manipulation dan API Fetch untuk membuat aplikasi frontend interaktif.
+* **Sistem Informasi Akademik (Laravel):** Pengembangan sistem informasi web lengkap dengan otentikasi, manajemen CRUD yang kompleks, dan implementasi relasi Eloquent.
+* **Aplikasi Manajemen Inventori (Laravel):** Solusi web untuk efisiensi pengelolaan stok barang, dengan fitur pelaporan dan manajemen data real-time.
+* **Aplikasi Web Berbasis PHP Native:** Aplikasi web skala kecil untuk memecahkan masalah spesifik, fokus pada keamanan dasar dan efisiensi kode.
+* **Eksplorasi Frontend (JavaScript):** Eksperimen dengan DOM Manipulation dan API Fetch untuk membuat aplikasi frontend interaktif.
 
 ## 🔭 Vision & Continuous Learning (Web3)
 
@@ -61,10 +68,14 @@ Saya siap untuk memasuki dunia industri, mampu beradaptasi dengan cepat, dan ber
 
 ## 📬 Mari Terhubung & Kolaborasi
 
-Saya terbuka untuk peluang kolaborasi proyek, *freelance*, atau posisi magang (internship) di bidang pengembangan perangkat lunak.
+Saya terbuka untuk peluang kolaborasi proyek, *freelance*, atau posisi magang (internship) di bidang pengembangan perangkat lunak. Jangan ragu untuk terhubung!
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://portofoliotoriq.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AzisToriq)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_PROFIL_LINKEDIN_ANDA_DI_SINI)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_PROFESIONAL_ANDA_DI_SINI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azis-toriq-maulana-21b397282/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zistoriqm/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@zistoriqm)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azisthoriq87@email.com) 
 
-***"Ready to adapt, learn, and contribute through analytical, creative, and solution-oriented approaches."***
+
+---

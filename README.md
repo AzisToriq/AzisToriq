@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internship-0077B6?style=flat&logo=linkedin" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-Laravel%20%7C%20Web3-FF4500" alt="Focus" />
   <br/>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFWlHO/giphy.gif" width="60" alt="Coding GIF">
+  <img src="[https://media.giphy.com/media/LmNwrBhejkK9EFWlHO/giphy.gif](https://toriq.vercel.app/)" width="60" alt="Website">
 </p>
 
 Hai! Saya adalah mahasiswa Program Studi **Informatika** yang bersemangat, berfokus untuk membangun dasar-dasar kuat di bidang Pengembangan Perangkat Lunak, Desain UI/UX, dan Analisis Data. Saya selalu antusias dalam menggabungkan pendekatan yang **analitis** dengan eksekusi yang **kreatif** untuk menghasilkan solusi yang *user-centric*.
@@ -33,7 +33,7 @@ Sebagai *developer*, saya telah mengembangkan berbagai proyek web, dengan spesia
 | **Data Analysis** | Konsep Dasar Statistik & SQL | Mengumpulkan, membersihkan, dan menginterpretasi data untuk mendapatkan *insight* yang relevan. |
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUOjH4vj0w26d6a8/giphy.gif" width="80" alt="Server GIF">
+  <img src="[https://media.giphy.com/media/LmNwrBhejkK9EFWlHO/giphy.gif](https://toriq.vercel.app/)" width="80" alt="Website">
 </p>
 
 ---
